@@ -6,7 +6,7 @@ Sebuah game mini berbasis [LÖVE (LOVE2D)](https://love2d.org/)
 
 ## 🕹️ Gameplay
 
-- Penjelasan Menyusul
+- Sebagai bahan referensi eksperimen untuk mempelajari LUA Programming
 
 ---
 
@@ -18,25 +18,6 @@ Sebuah game mini berbasis [LÖVE (LOVE2D)](https://love2d.org/)
 
 ---
 
-
-## 🚀 Cara Menjalankan
-
-1. **Install LOVE2D** dari [https://love2d.org/](https://love2d.org/)
-
-   ```
-2. Jalankan game:
-   - **Drag folder** ke aplikasi LOVE
-
----
-
-## 🎯 Fitur Selanjutnya (TODO)
-
-- [ ] Pindahkan target setelah diklik
-- [ ] Tambahkan batas waktu (timer)
-- [ ] Suara klik
-- [ ] Desain tampilan skor dan UI yang lebih menarik
-
----
 
 ## 📄 Lisensi
 
